@@ -1,0 +1,9 @@
+numpy
+sentence-transformers
+PyMuPDF
+faiss-cpu
+python-dotenv
+groq
+torch
+transformers
+streamlit
