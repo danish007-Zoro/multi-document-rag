@@ -366,6 +366,30 @@ streamlit run app.py
 
 The web application provides an interactive interface for asking questions, viewing retrieved sources, uploading documents, viewing document information, and summarizing documents.
 
+## Demo
+
+[Watch the full demo video](assets/demo/Nexus_RAG_Demo_Final.mp4)
+
+## Screenshots
+
+### RAG Answer with Source Attribution
+
+The system generates an answer from retrieved document evidence and exposes the supporting document, page, chunk, and retrieval distance.
+
+![RAG Answer](assets/screenshots/rag_answer.png)
+
+### Refusal for Unsupported Queries
+
+When relevant evidence cannot be retrieved from the indexed documents, the system refuses to answer instead of relying on outside knowledge.
+
+![RAG Refusal](assets/screenshots/rag_refusal.png)
+
+### Document Summarization
+
+The system can summarize an individual document directly from the uploaded document collection.
+
+![RAG Summary](assets/screenshots/rag_summary.png)
+
 ## Running Evaluations
 
 End-to-end:
