@@ -304,8 +304,8 @@ RAG/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd RAG
+git clone https://github.com/danish007-Zoro/multi-document-rag.git
+cd multi-document-rag
 ```
 
 ### Create a virtual environment
