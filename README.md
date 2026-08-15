@@ -368,7 +368,9 @@ The web application provides an interactive interface for asking questions, view
 
 ## Demo
 
-[Watch the full demo video](assets/demo/Nexus_RAG_Demo_Final.mp4)
+[▶️ Watch the full demo on YouTube](https://youtu.be/oh5gxhl5yTo)
+
+The demo shows multi-document ingestion, semantic retrieval, grounded answer generation, source attribution, refusal behavior, and document summarization.
 
 ## Screenshots
 
