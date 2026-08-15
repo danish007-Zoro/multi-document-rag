@@ -4,6 +4,12 @@ A modular Retrieval-Augmented Generation (RAG) system for querying multiple PDF 
 
 The project emphasizes retrieval quality, answer grounding, refusal behavior, and experimental evaluation.
 
+### 🔗 Project Links
+
+- **Live Demo:** https://nexus-rag-zoro.streamlit.app/
+- **GitHub Repository:** https://github.com/danish007-Zoro/multi-document-rag
+- **Video Demo:** https://youtu.be/oh5gxhl5yTo
+
 ## Overview
 
 The system can:
